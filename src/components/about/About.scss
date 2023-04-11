@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+.aboutpage{
+    width: 100%;
+    background-color: black;
+   padding-bottom: 100px;
+    .aboutpageicons{
+        padding-top: 140px;
+        padding-left: 600px;
+        img{
+            width: 76.42px;
+            height: 70.03px;
+        }
+        span{
+            font-style: normal;
+font-weight: 800;
+font-size: 62px;
+line-height: 93px;
+color: #FFFFFF;
+padding-left: 20px;
+        }
+    }
+    h6{
+        font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 38px;
+color: #306EF7;
+text-align: center;
+padding-top: 48px;
+    }
+    h1{
+        font-style: normal;
+font-weight: 600;
+font-size: 75px;
+line-height: 112px;
+text-align: center;
+color: #FFFFFF;
+padding-right: 300px;
+padding-left: 300px;
+    }
+    h2{
+        font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 45px;
+text-align: center;
+color: #FFFFFF;
+padding-left: 150px;
+padding-right: 150px;
+padding-top: 10px;
+    }
+    .information{
+        padding-top: 120px;
+        padding-left: 250px;
+        padding-right: 250px;
+        h4{
+            font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 50px;
+color: #FFFFFF;
+        }
+        h5{
+            font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 42px;
+color: #FFFFFF;
+padding-top: 40px;
+padding-bottom: 50px;
+border-bottom:1.5px solid #828282;
+        }
+    }
+}
+.aboutpage2{
+    width: 100%;
+    background-color: black;
+h6{
+    font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 38px;
+color: #306EF7;
+padding-top: 150px;
+text-align: center;
+}
+h1{
+    font-style: normal;
+font-weight: 600;
+font-size: 75px;
+line-height: 112px;
+color: #FFFFFF;
+text-align: center;
+
+}
+.creators{
+    padding-top: 60px;
+    padding-left: 250px;
+    gap: 200px;
+    display: flex;
+    padding-bottom: 60px;
+    .creatoritems1{
+        width: 212px;
+height: 256px;
+text-align: center;
+align-items: center;
+justify-content: center;
+        img{
+            border-radius: 50%;
+
+        }
+        h2{
+            font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 52px;
+color: #FFFFFF;
+        }
+        p{
+            font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 28px;
+color: #7F7F7F;
+
+        }
+  h3{
+    font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+color: #FFFFFF;
+padding-top: 21px;
+
+  }
+  span i{
+    color: #306EF7;
+  }
+    }
+}
+}
